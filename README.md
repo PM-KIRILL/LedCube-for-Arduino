@@ -1,4 +1,6 @@
-[LedCube for Arduino]
+LedCube for Arduino
+
+
 Использование
 -------------
 1. Откройте файл LedCube-PM-Kirill.ino в Arduino IDE.
